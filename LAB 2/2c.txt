@@ -1,0 +1,1 @@
+Błędem jest niewykorzystanie zmienionych nazw źródł danych tablic. Odwoływanie się do źródła danych po starej nazwie powoduje utworzenie dwóch tabel o nazwie C oraz O. Rozwiązaniem błędu jest nienadawanie nowych nazw źródłom danych lub zastosowanie nadanych nazw przy korzystaniu z kolumn znajdujących się w tych tabelach.
